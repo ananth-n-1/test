@@ -1,0 +1,91 @@
+version: 3
+domain: "Translation: English to UP Hindi"
+created_by: venkat-pesala
+seed_examples:
+  - context: |
+      This is a translation task from English to colloquial Hindi used in Uttar Pradesh.
+    questions_and_answers:
+      - question: |
+          rodent
+        answer: |
+          कृंतकों की प्राणी āṇī। कृंतकों की भेड़ी é। प्राणी āṇī कृंतक।
+      - question: |
+          IDPL Chairman Major - General - LRB - retd - RRB - V. K. Sareen has little background in the pharmaceutical industry and has n't got much to charge up his disheartened army for battle against its competitors in the marketplace.
+        answer: |
+          आइडीपीएल के अध्यक्ष मेजर-जनरल (सेवानिवृत्त) वी. के. सरीन को औषधि निर्माण उद्योग के क्षेत्र में रत्ती भर अनुभव नहीं और बाजार में अपने प्रतिद्वंद्वियों के खिलाफ मोर्चा संभालने के लिए अपनी हताश-निराश सेना में भी वे कोई जोश नहीं भर पाए हैं।
+      - question: |
+          We needed something to hold the net up
+        answer: |
+          हमें जाल को ऊपर रखने के लिए कुछ स्वयंदेश की जरूरत थी।
+
+  - context: |
+      This is a translation task from English to colloquial Hindi used in Uttar Pradesh.
+    questions_and_answers:
+      - question: |
+          Believers, on Friday when the call for prayer is made, try to attend prayer (remembering God) and leave off all business. This would be better for you if only you knew it.
+        answer: |
+          ऐ ईमान लानेवालो, जब जुमा के दिन नमाज़ के लिए पुकारा जाए तो अल्लाह की याद की ओर दौड़ पड़ो और क्रय-विक्रय छोड़ दो। यह तुम्हारे लिए अच्छा है, यदि तुम जानो।
+      - question: |
+          [Explanation.—A trust which is not declared by a duly executed instrument in writing (including a valid deed of wakf) shall be deemed, for the purposes of this sub-section, to be a trust declared by a duly executed instrument in writing if a statement in writing, signed by the trustee or trustees, setting out the purpose or purposes of the trust, particulars as to the trustee or trustees, the beneficiary or beneficiaries and the trust property, is forwarded to the [Assessing Officer],—]
+        answer: |
+          स्पष्टीकरण है कि जो न्यास विधिपूर्वक निष्पादित लिखत द्वारा घोषित नहीं किया गया है, उसे विधिमान्य वक्फ विलेख सहित घोषित माना जाएगा यदि एक लिखित कथन में न्यास के उद्देश्य, न्यासी, हिताधिकारी और संपत्ति का विवरण हो और वह [निर्धारण अधिकारी] को भेजा गया हो।
+      - question: |
+          Fingerprints
+        answer: |
+          फिंगरप्रिंट हमारे आयोजकों के लिए एक महत्वपूर्ण पहचान चिह्न है।
+
+  - context: |
+      This is a translation task from English to colloquial Hindi used in Uttar Pradesh.
+    questions_and_answers:
+      - question: |
+          STILL NOT SURE?
+        answer: |
+          अब भी तय नहीं कर पाए?
+      - question: |
+          Later, Chief Commissioner, Cooch - Behar and Tripura.
+        answer: |
+          बाद में कुचबिहार और त्रिपुरा के चीफ कमिश्नर।
+      - question: |
+          Aaya Toofan
+        answer: |
+          आया तूफान!
+
+  - context: |
+      This is a translation task from English to colloquial Hindi used in Uttar Pradesh.
+    questions_and_answers:
+      - question: |
+          And how many a sign within the heavens and earth do they pass over while they, therefrom, are turning away.
+        answer: |
+          आकाश और धरती में कितनी ही निशानियाँ हैं जिनसे वे गुजरते हैं और फिर भी ध्यान नहीं देते।
+      - question: |
+          All of youall of you have strings tied on your feet too, I answered.
+        answer: |
+          आप सभी के पैरों में भी मजबूत धागे बंधे हुए हैं, मैंने कहा।
+      - question: |
+          bulge
+        answer: |
+          उभाड़ — जैसे दीवार से निकला हिस्सा।
+
+  - context: |
+      This is a translation task from English to colloquial Hindi used in Uttar Pradesh.
+    questions_and_answers:
+      - question: |
+          If they gain dominance over you they will be your enemies, and will extend their hands and their tongues towards you with evil, and they wish that in some way you turn disbelievers.
+        answer: |
+          अगर वे तुम पर काबू पा लें, तो वे तुम्हारे दुश्मन बन जाएंगे और बुराई के साथ तुम्हारी ओर हाथ और ज़ुबान बढ़ाएँगे। वे तो चाहते हैं कि तुम किसी तरह से ईमान से फिर जाओ।
+      - question: |
+          'Ecology and Conservation of the Spot - billed Pelican in Andhra Pradesh', and study of Ecology of Indian Grey Hornbill (Ocyceros Birostris) with special reference to its role in southern Eastern Ghats'.
+        answer: |
+          ‘पारिस्थितिकीय विज्ञान और आंध्र प्रदेश में स्पॉट-बिल पेलिकन का संरक्षण’ और ‘दक्षिण पूर्वी घाटों में भारतीय ग्रे हॉर्नबिल की भूमिका’ पर आधारित अध्ययन।
+      - question: |
+          And similarly We have revealed this as a command in Arabic; and O listener (follower of this Prophet), if you follow their desires after the knowledge having come to you, then you will have neither a supporter nor any saviour against Allah.
+        answer: |
+          और इसी तरह हमने इसे अरबी भाषा में आदेश के रूप में प्रकट किया है। हे श्रोता, यदि तुम ज्ञान प्राप्त होने के बाद उनकी इच्छाओं का अनुसरण करते हो, तो अल्लाह के विरुद्ध तुम्हारा कोई सहायक या रक्षक नहीं होगा।
+
+document_outline: |
+  Sentence-level translations from English to colloquial UP-Hindi.
+document:
+  repo: https://github.com/ananth-n-1/test
+  commit: 26d6aa3a9acf968d6e644ec857044be49e5ba8fd
+  patterns:
+    - english_up_hindi.md
